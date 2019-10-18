@@ -1,1 +1,1 @@
-# Flatiron-Project-3-Spotify-Track-Popularity-Analysis-Using-Machine-Learning-and-Statistical-Modeling
+# Spotify Track Popularity Analysis Using Machine Learning and Statistical Modeling
