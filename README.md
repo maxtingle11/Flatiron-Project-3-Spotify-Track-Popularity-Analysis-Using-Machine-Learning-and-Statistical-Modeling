@@ -26,7 +26,7 @@ Our analysis examines Spotify track popularity scores by track features. We coll
 2. Modeling Spotify Track Popularity Presentation (PDF)
 3. Technical Notebook (Jupyter Notebook)
 4. Images (Folder)
-*5. Data csv file available upon request (file size was too large for GitHub).*
+5. *Data csv file available upon request (file size was too large for GitHub).*
 
 ## Responsibilities
 
