@@ -7,7 +7,7 @@
 
 ## Project Goals
 
-Our analysis examines Spotify track popularity scores by track features. We collected data from Spotify's Web API that includes 637,265 tracks and their associated duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence. 
+Our analysis examines Spotify track popularity scores by track features. We collected data from Spotify's Web API that includes 637,265 tracks and their associated duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence. *(Here are links to examine the [audio features](https://developer.spotify.com/documentation/web-api/reference/tracks/get-several-audio-features/) and [popularity score](https://developer.spotify.com/documentation/web-api/reference/tracks/get-track/).)*
 
 **Research Question:** Using the CRISP-DM framework, we asked the research question: "Do the track features (independent variables) predict track popularity score (dependent variable)?" 
 
