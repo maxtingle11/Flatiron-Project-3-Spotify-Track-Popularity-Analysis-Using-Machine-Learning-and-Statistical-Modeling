@@ -17,7 +17,7 @@ Our analysis examines Spotify track popularity scores by track features. We coll
 
 **Random Forrest Classification:** We moved on to try Random Forrest classification, but observed similar results as we did for logistic regression. The true positive rate was still low, and the models had high accuracy at predicting true negatives (tracks that were not popular), but not for predicting true positives (tracks that were popular).
 
-**Finding:** Based on our analysis, we cannot say that the independent variables (duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence) predict track popularity.\\
+**Finding:** Based on our analysis, we cannot say that the independent variables (duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence) predict track popularity.
 
 
 ## Repository Files
