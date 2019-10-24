@@ -7,7 +7,7 @@
 
 ## Project Goals
 
-Our analysis examines Spotify track popularity scores by track features. We collected data from Spotify's Web API that includes 637,265 tracks and their associated duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence. 
+Our analysis examines Spotify track popularity scores by track features. We collected data from Spotify's Web API that includes 637,265 tracks and their associated duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence. *(Here are links to examine the [audio features](https://developer.spotify.com/documentation/web-api/reference/tracks/get-several-audio-features/) and [popularity score](https://developer.spotify.com/documentation/web-api/reference/tracks/get-track/).)*
 
 **Research Question:** Using the CRISP-DM framework, we asked the research question: "Do the track features (independent variables) predict track popularity score (dependent variable)?" 
 
@@ -17,7 +17,7 @@ Our analysis examines Spotify track popularity scores by track features. We coll
 
 **Random Forrest Classification:** We moved on to try Random Forrest classification, but observed similar results as we did for logistic regression. The true positive rate was still low, and the models had high accuracy at predicting true negatives (tracks that were not popular), but not for predicting true positives (tracks that were popular).
 
-**Finding:** Based on our analysis, we cannot say that the independent variables (duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence) predict track popularity.\\
+**Finding:** Based on our analysis, we cannot say that the independent variables (duration, single or album status, key, mode (major/minor), speechiness, acousticness, instrumentalness, liveness, valence) predict track popularity.
 
 
 ## Repository Files
@@ -26,7 +26,7 @@ Our analysis examines Spotify track popularity scores by track features. We coll
 2. Modeling Spotify Track Popularity Presentation (PDF)
 3. Technical Notebook (Jupyter Notebook)
 4. Images (Folder)
-
+5. *Data csv file available upon request (file size was too large for GitHub).*
 
 ## Responsibilities
 
