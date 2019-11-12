@@ -1,4 +1,4 @@
-# Modeling Spotify Track Popularity
+# Predicting a Song's Popularity with Regression and Classification Analysis
 
 **Data Scientists** - Nasrin Khansari & Max Tingle 
 
