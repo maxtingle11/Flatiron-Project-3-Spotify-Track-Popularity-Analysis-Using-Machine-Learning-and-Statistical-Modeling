@@ -1,4 +1,4 @@
-# Predicting a Song's Popularity with Regression and Classification Analysis
+# Using Regression and Classification Analyses to Predict a Song's Popularity 
 
 **Data Scientists** - Nasrin Khansari & Max Tingle 
 
